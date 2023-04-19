@@ -1,0 +1,3 @@
+The quickest and easiest way to start programming with the SOLIDWORKS API is to record a SOLIDWORKS macro, which contains the SOLIDWORKS API calls that correspond to the actions performed in the user interface. You can modify the macro in Microsoft Visual Basic for Applications (VBA) or Microsoft Visual Studio Tools for Applications (VSTA) to fit your work site's needs.
+
+Microsoft VBA is a toolset based on Microsoft Visual Basic for Applications (VBA) and is embedded in the SOLIDWORKS software. Microsoft VBA lets you record, run, and edit Microsoft VBA macros in the SOLIDWORKS software. Recorded macros are saved as .swp files.
